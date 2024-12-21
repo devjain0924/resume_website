@@ -107,9 +107,9 @@ Feel free to submit issues or pull requests if you'd like to improve the website
 
 Have any questions or opportunities to share? Feel free to reach out!
 
-- **Email:**(24devjain@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/dev-jain-567366233/)
-- **GitHub:** (https://github.com/devjain0924)
+- **Email:** [24devjain@gmail.com](mailto:24devjain@gmail.com)
+- **LinkedIn:** [Dev Jain](https://www.linkedin.com/in/dev-jain-567366233/)
+- **GitHub:** [devjain0924](https://github.com/devjain0924)
 
 ---
 
